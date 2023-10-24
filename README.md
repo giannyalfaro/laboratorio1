@@ -1,2 +1,2 @@
 # laboratorio1
-laboratorio programación orientada a objetos sdsdsdsddsdsdsd
+laboratorio programación
